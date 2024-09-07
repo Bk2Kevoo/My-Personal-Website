@@ -1,18 +1,39 @@
 body {
-    background: #FEFEFE;
+    background: #010101;
+
 }
 
 h1 {
     font-style: bold;
     font-size: 40px;
     text-align: center;
+    color: #FEFEFE;
 }
 
 p {
     font-size: 30px;
     font-style: italic;
+    color: #FEFEFE
 }
 
 ul {
-    font-size: 20px;
+    font-size: 25px;
+    color: #FEFEFE;
+}
+
+image {
+    max-width: 100%;
+    max-height: 100%;
+    color: #FEFEFE;
+}
+
+h2 {
+    color: #FEFEFE;
+
+}
+
+.text {
+    color: #FEFEFE;
+    font-size: 35px;
+    font-style: italic;
 }
