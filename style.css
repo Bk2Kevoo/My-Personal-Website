@@ -13,7 +13,7 @@ h1 {
 p {
     font-size: 30px;
     font-style: italic;
-    color: #FEFEFE
+    color: #FEFEFE;
 }
 
 ul {
@@ -34,6 +34,41 @@ h2 {
 
 .text {
     color: #FEFEFE;
-    font-size: 35px;
+    font-size: 25px;
+    font-family: Times New Roman;
+}
+
+.center {
+    display: center;
+    padding: 30px;
+    width: 600px;
+    height: 400px;
+}
+
+.left {
+    display: left;
+    margin-left: 20px;
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+}
+
+.right {
+    display: right;
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+}
+
+.ending {
+    text-align: center;
+    font-size: 60px;
+    text-decoration-line: underline;
+    background-color: #5f0000;
+}
+
+.code {
+    background-color: #5f0000;
     font-style: italic;
+    text-align: center;
 }
